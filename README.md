@@ -28,10 +28,10 @@ http-server -c-1
 
 ## Roadmap of future improves
 
-- Add an stock of every bill in the bank
+- Post shopping cart on strapi
 - Inprove the interface
-- Connect with an authentication service
-- See all the transactions done
+- Update the data base with the real stock
+- Show past seles
 
 ## Licence
 
